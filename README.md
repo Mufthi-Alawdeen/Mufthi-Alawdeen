@@ -1,5 +1,3 @@
-!👋 Hi, my name is Mohammed Mufthi
-
 ![Profile views](https://komarev.com/ghpvc/?username=Mufthi-Alawdeen&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
